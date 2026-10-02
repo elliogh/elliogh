@@ -1,16 +1,17 @@
-## Hi there 👋
+# Danil Tselikov
 
-<!--
-**elliogh/elliogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on Go and distributed systems.
 
-Here are some ideas to get you started:
+I build backend services and infrastructure with Go, PostgreSQL, Kafka, gRPC, and Kubernetes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+
+- Distributed systems
+- Backend infrastructure
+- Databases and messaging
+- Developer tooling
+- AI agent infrastructure
+
+### Tech
+
+`Go` `PostgreSQL` `Kafka` `gRPC` `Docker` `Kubernetes` `S3` `ClickHouse`
